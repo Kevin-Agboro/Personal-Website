@@ -61,6 +61,7 @@ header a:hover {
     justify-content: center;
     height: 100vh; /* Full height */
     text-align: center;
+    margin-top: -230px ;
 }
 
 .container1 #headshot {
